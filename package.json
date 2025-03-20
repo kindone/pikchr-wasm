@@ -1,6 +1,6 @@
 {
   "name": "pikchr-wasm",
-  "repository": "github:fabiospampinato/pikchr-wasm",
+  "repository": "github:kindone/pikchr-wasm",
   "description": "A fast and small port of Pikchr to WASM.",
   "version": "2.0.1",
   "type": "module",
